@@ -17,9 +17,12 @@
 * 界面说明
     *  登录页面
     ![login](/readme/login.png)
-    *  首页
+    
+    *  首页 
     ![home](/readme/home.png)
-    *  发型设计浏览页
+    
+    *  发型设计浏览页   
     ![design](/readme/design.png)
+    
 ##工程说明
 这只是一个安卓版本，不支持ios
