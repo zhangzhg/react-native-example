@@ -15,6 +15,11 @@
     *  npm install(or yarn)
     *  react-native run-android
 * 界面说明
-
+    *  登录页面
+    ![login](/readme/login.jpg)
+    *  首页
+    ![home](/readme/home.jpg)
+    *  发型设计浏览页
+    ![design](/readme/design.jpg)
 ##工程说明
 这只是一个安卓版本，不支持ios
