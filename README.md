@@ -16,10 +16,10 @@
     *  react-native run-android
 * 界面说明
     *  登录页面
-    ![login](/readme/login.jpg =100x200)
+    ![login](/readme/login.jpg){:height="200px" width="100px"}
     *  首页
-    ![home](/readme/home.jpg =100x200)
+    ![home](/readme/home.jpg){:height="200px" width="100px"}
     *  发型设计浏览页
-    ![design](/readme/design.jpg =100x200)
+    ![design](/readme/design.jpg){:height="200px" width="100px"}
 ##工程说明
 这只是一个安卓版本，不支持ios
