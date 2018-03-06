@@ -18,10 +18,9 @@
     *  登录页面  <br />
       ![login](/readme/login.png)  
     *  首页 <br />
-      ![home](/readme/home.png)
-    
-    *  发型设计浏览页,滚动图片，加载图片对应的详细评论信息。 <br />
-      ![design](/readme/design.png)
+    ![home](/readme/home.png)
+    *  发型设计浏览页,滚动图片，加载图片对应的详细评论信息。  <br />
+    ![design](/readme/design.png)
     
 ##工程说明  <br />
 这只是一个安卓版本，不支持ios
