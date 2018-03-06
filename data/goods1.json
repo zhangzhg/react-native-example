@@ -1,0 +1,49 @@
+[{
+  "name":"护发素",
+  "image":"../../image/header.jpg",
+  "info":"用了都说好",
+  "support":"200",
+  "price":"¥100"
+},{
+  "name":"洗发露",
+  "image":"../../image/header.jpg",
+  "info":"黑直长",
+  "support":"100",
+  "price":"¥100"
+},{
+  "name":"电风吹",
+  "image":"../../image/header.jpg",
+  "info":"很给力",
+  "support":"200",
+  "price":"¥80"
+},{
+  "name":"欧莱雅",
+  "image":"../../image/header.jpg",
+  "info":"品牌好",
+  "support":"600",
+  "price":"¥300"
+},{
+  "name":"精油",
+  "image":"../../image/header.jpg",
+  "info":"没得说",
+  "support":"200",
+  "price":"¥10.5"
+},{
+  "name":"精油",
+  "image":"../../image/header.jpg",
+  "info":"没得说",
+  "support":"200",
+  "price":"¥10.5"
+},{
+  "name":"精油",
+  "image":"../../image/header.jpg",
+  "info":"没得说",
+  "support":"200",
+  "price":"¥10.5"
+},{
+  "name":"精油",
+  "image":"../../image/header.jpg",
+  "info":"没得说",
+  "support":"200",
+  "price":"¥10.5"
+}]
