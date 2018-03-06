@@ -83,7 +83,7 @@ export default class login extends Component{
 const styles = StyleSheet.create({
    container: {
        flex: 1,
-       backgroundColor: '#3496f0'
+       backgroundColor: '#fff'
    },
    logo: {
        width:240,
@@ -112,7 +112,7 @@ const styles = StyleSheet.create({
    },
    inputStyle: {
        height: 50,
-       backgroundColor: 'rgba(255,255,255,0.2)',
+       backgroundColor: '#c3e2ff',
        marginBottom:10,
        color: '#fff',
        paddingHorizontal: 10
