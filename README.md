@@ -21,7 +21,7 @@
     *  首页 
     -  ![home](/readme/home.png)
     
-    *  发型设计浏览页   
+    *  发型设计浏览页,滚动图片，加载图片对应的详细评论信息。 
     -  ![design](/readme/design.png)
     
 ##工程说明
